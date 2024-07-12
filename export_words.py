@@ -1,18 +1,15 @@
 async def export_words():
     export_directory = "words"
     os.makedirs(export_directory, exist_ok=True)
-
     file_handlers = {}
     file_indices = {}
+    words_per_file = 100
+    word_counts = {}  # New dictionary to track word counts for each letter
 
     # Initialize Tortoise ORM
-
     # Get total count of words
     total_words = await WordDB.filter(is_confirmed=True).count()
-
     batch_size = 100
-    words_per_file = 1000
-    current_word_count = 0
 
     for offset in range(0, total_words, batch_size):
         # Fetch words in batches
@@ -31,8 +28,11 @@ async def export_words():
         for word in words:
             first_letter = word.content[0].lower()
 
+            if first_letter not in word_counts:
+                word_counts[first_letter] = 0
+
             if (
-                current_word_count % words_per_file == 0
+                word_counts[first_letter] % words_per_file == 0
                 or first_letter not in file_handlers
             ):
                 if first_letter in file_handlers:
@@ -90,7 +90,7 @@ async def export_words():
             file_handlers[first_letter].write(",\n")
             file_handlers[first_letter].flush()
 
-            current_word_count += 1
+            word_counts[first_letter] += 1  # Increment the word count for this letter
 
     for handler in file_handlers.values():
         handler.seek(handler.tell() - 2)  # Remove the last comma and newline
