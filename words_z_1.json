@@ -1,0 +1,518 @@
+[
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zana",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zanabûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zanîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zanîngeh",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Weysî",
+    "lastname": "Sayar"
+  },
+  "content": "zanist",
+  "definitions": [
+    {
+      "content": "Rêbaza ji bo bigihêje encamekê ceribandin, teorî û çavdêriyê bi kar tîne.",
+      "type": "Navdêr",
+      "author": {
+        "firstname": "Weysî",
+        "lastname": "Sayar"
+      },
+      "sentences": [
+        {
+          "content": "\"Zanist dema xweşî da semyan, dema tengî da jî perestgeh û rênîşandarek e.\" ",
+          "tense": "Dema fireh",
+          "word_form": "Zanist",
+          "author": {
+            "firstname": "Weysî",
+            "lastname": "Sayar"
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zanistî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zanyarî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zar",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zarava",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "zarîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zarok",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zarokî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ahmet",
+    "lastname": "Polat"
+  },
+  "content": "zava",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zayend",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zêde",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zêde bûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zêdebûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zêdetir",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zehmet",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zehmetî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "zelal",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zelal kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zelalkirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zeliqandin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zelzele",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zeman",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zend",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zengelor",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zengil",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zer",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zêr",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zerer kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zêrîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zevî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zewicandin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zewicî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zeyt",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zik",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zikmakî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zilam",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zîlan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zîl dan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ziman",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ziman geriyan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zimannasî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zimanzan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zinar",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zindan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zindî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zîpik",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zirav",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zîvirî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zivirîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zivistan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ziwa",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zîz",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zordarî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zordestî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zozan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zû",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "zûtir",
+  "definitions": []
+}
+]

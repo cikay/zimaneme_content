@@ -1,0 +1,805 @@
+[
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kadîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kakil",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kal",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kanî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kar",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kargeh",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "karîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "karker",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "karmend",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "karsaz",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "karwan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "karxezal",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kaxez",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "keç",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "keçanî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Mehmet",
+    "lastname": "Agun"
+  },
+  "content": "keçik",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ked",
+  "definitions": [
+    {
+      "content": "Kirina kar",
+      "type": "Navdêr",
+      "author": {
+        "firstname": "Muzaffer",
+        "lastname": "Cıkay"
+      },
+      "sentences": [
+        {
+          "content": "Em keda Celadet Alî Bedirxan ji bo zimanê Kurdî pîroz dikin",
+          "tense": "Dema fireh",
+          "word_form": "keda",
+          "author": {
+            "firstname": "Muzaffer",
+            "lastname": "Cıkay"
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kedî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kedîkirî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kedî kirin",
+  "definitions": [
+    {
+      "content": "Fêrkirina ajalan bo jiyana bi mirovan re",
+      "type": "Lêker",
+      "author": {
+        "firstname": "Muzaffer",
+        "lastname": "Cıkay"
+      },
+      "sentences": []
+    }
+  ]
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kef",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kêf",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kêfxweş",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kêl",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kelacanî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kelandin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kelecan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kelecanî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kêlek",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kêlî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kel rabûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kêm",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kêmasî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ken",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kenandin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kengê",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kengî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kenîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ker",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kêr",
+  "definitions": [
+    {
+      "content": "Amorê ku tiştan dibire",
+      "type": "Navdêr",
+      "author": {
+        "firstname": "Muzaffer",
+        "lastname": "Cıkay"
+      },
+      "sentences": []
+    }
+  ]
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "keremkar",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kerem kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kerî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kermêş",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kêr negîhandin xwe",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kes",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kesayetî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "keser",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kesk",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "keskesor",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ketin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ketin destê (yekî)",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ketin rêzê",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ketin serê (kesekî)",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kevanî",
+  "definitions": [
+    {
+      "content": "Kesê ku karên malê dike",
+      "type": "Navdêr",
+      "author": {
+        "firstname": "Muzaffer",
+        "lastname": "Cıkay"
+      },
+      "sentences": []
+    }
+  ]
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kevçî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kevir",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kevnar",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kevneşopî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kevok",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kew",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "keys",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kezî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kîjan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kil",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kilam",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kil kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kinc",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kincdank",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kiras",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kirê kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kirîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kirm",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kişandin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kîvroşk",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ko",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "koçber",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "koçer",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "koç kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "koçkirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kok",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ko kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kolan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kolandin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kolinc",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kom",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kom bûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "komik",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kom kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kon",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kort",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kovan",
+  "definitions": []
+},
+
+]

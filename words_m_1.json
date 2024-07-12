@@ -1,0 +1,722 @@
+[
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "maç kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "maf",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mafdar",
+  "definitions": [
+    {
+      "content": "Xwedî maf",
+      "type": "Hevalnav",
+      "author": {
+        "firstname": "Muzaffer",
+        "lastname": "Cıkay"
+      },
+      "sentences": []
+    }
+  ]
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mal",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "malavayî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "malbat",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "malbatî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "maldar",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "malneketo",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "malper",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "malwêran",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "malxwê",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mamoste",
+  "definitions": [
+    {
+      "content": "Kesê ku xwedekaran fêrî tişkekî dike",
+      "type": "Navdêr",
+      "author": {
+        "firstname": "Muzaffer",
+        "lastname": "Cıkay"
+      },
+      "sentences": []
+    }
+  ]
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "man",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mar",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mar kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "marmarok",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "masî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ahmet",
+    "lastname": "Polat"
+  },
+  "content": "mast",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "matmayî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "meh",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mêjî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "melisîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mêr",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mêranî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "merc",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mereq kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "merezî kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ahmet",
+    "lastname": "Polat"
+  },
+  "content": "mêrg",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mêrhas",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "merheba",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "merhele",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mêr kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mêrxas",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "meş",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mêş",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mesele",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "meşîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mest",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "met",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "mêtingeh",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mêvan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mêvandarî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mêwî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mêwîj",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mewt",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mexel",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mexel bûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mexel hatin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mêzekirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mezin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mezinahî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mezin bûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mezin kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mezintir",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "mezlûm",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "miçiqî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "miçiqîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "mifte",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mij",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mijar",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mijokî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mijûl",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mijûl bûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mil",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mîna",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mînak",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mîr",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mîrat",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mirî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mirin",
+  "definitions": [
+    {
+      "content": "Dawîbûna jiyana jîndaran",
+      "type": "Lêker",
+      "author": {
+        "firstname": "Muzaffer",
+        "lastname": "Cıkay"
+      },
+      "sentences": [
+        {
+          "content": "Mirina bi saxî navê wê eşq e",
+          "tense": "Dema fireh",
+          "word_form": "Mirina",
+          "author": {
+            "firstname": "Muzaffer",
+            "lastname": "Cıkay"
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mirîşk",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mirov",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mirovatî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "misas",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mişk",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mist",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mist dan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mîtro",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mixabin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "mîzdank",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "mizgeft",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "moran",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "morî",
+  "definitions": []
+}
+]

@@ -1,0 +1,272 @@
+[
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "jan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "jêbir",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "jê gerîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Weysî",
+    "lastname": "Sayar"
+  },
+  "content": "jêhatî",
+  "definitions": [
+    {
+      "content": "Kesê di karê xwe de serkeftî û baş be.",
+      "type": "Navdêr",
+      "author": {
+        "firstname": "Weysî",
+        "lastname": "Sayar"
+      },
+      "sentences": [
+        {
+          "content": "Ev ne karê bêkêran e, ev karê mirovên jêhatî ne.",
+          "tense": "Dema fireh",
+          "word_form": "Jêhatî ",
+          "author": {
+            "firstname": "Weysî",
+            "lastname": "Sayar"
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "jêhatîtir",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "jê man",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "jêr",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ji ber ku",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ji ber vê yekê",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ji ber wê yekê",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ji bilî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ji bîr çûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ji bîr kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ji bo",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ji bona",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ji dayik bûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ji dest dan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "jidil",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "jin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "jîndar",
+  "definitions": [
+    {
+      "content": "Tiştên xwedî jiyanekê",
+      "type": "Navdêr",
+      "author": {
+        "firstname": "Muzaffer",
+        "lastname": "Cıkay"
+      },
+      "sentences": []
+    }
+  ]
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "jîngeh",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ji nişkê ve",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ji nû ve ",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ji (tiştekî) man",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "ji xeynî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "jixwe",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "jiyan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "jiyana xwe ji dest dan ",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "jiyan kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "jor",
+  "definitions": []
+}
+]
