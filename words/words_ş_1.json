@@ -4,7 +4,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şa bûn",
+  "content": "şimik",
   "definitions": []
 },
 {
@@ -12,15 +12,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şad bûn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Ferhat",
-    "lastname": "Bismil"
-  },
-  "content": "şahî",
+  "content": "şev",
   "definitions": []
 },
 {
@@ -28,7 +20,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şal",
+  "content": "şewitandin",
   "definitions": []
 },
 {
@@ -36,7 +28,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şanazî",
+  "content": "şidandin",
   "definitions": []
 },
 {
@@ -44,7 +36,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şandin",
+  "content": "şilî",
   "definitions": []
 },
 {
@@ -52,7 +44,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şano",
+  "content": "şîrove",
   "definitions": []
 },
 {
@@ -60,103 +52,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şaredarî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "şaristan",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "şaristanî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şaş",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şaşî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şekir",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şeklî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Ferhat",
-    "lastname": "Bismil"
-  },
-  "content": "şemam",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şemitandin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şemitîn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şên",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şên bûn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şênî",
+  "content": "şoreş",
   "definitions": []
 },
 {
@@ -180,191 +76,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şerbik",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şer kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şerm",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şermezar kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şermî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şert",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şev",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şevîn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "şewat",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şêwaz",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şêwirîn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şêwirmend",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şewitandin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şewitî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şewitîn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şewk",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Ferhat",
-    "lastname": "Bismil"
-  },
-  "content": "şewq",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şibandin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şidandin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şik birin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Ahmet",
-    "lastname": "Polat"
-  },
-  "content": "şil",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şilî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şimik",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Ahmet",
-    "lastname": "Polat"
-  },
-  "content": "şîn",
+  "content": "şano",
   "definitions": []
 },
 {
@@ -380,7 +92,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şireşir",
+  "content": "şuxilîn",
   "definitions": []
 },
 {
@@ -388,79 +100,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şîret",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şirîk",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şîrîn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şirît",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şîrove",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şîrove kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şirqînî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şitil",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şivan",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şivanî",
+  "content": "şaredarî",
   "definitions": []
 },
 {
@@ -473,10 +113,10 @@
 },
 {
   "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
   },
-  "content": "şiyar",
+  "content": "şandin",
   "definitions": []
 },
 {
@@ -484,7 +124,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şkestî",
+  "content": "şert",
   "definitions": []
 },
 {
@@ -492,15 +132,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şkestin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şop",
+  "content": "şêwaz",
   "definitions": []
 },
 {
@@ -524,7 +156,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şor",
+  "content": "şibandin",
   "definitions": []
 },
 {
@@ -532,7 +164,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şorbe",
+  "content": "şerm",
   "definitions": []
 },
 {
@@ -540,7 +172,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şoreş",
+  "content": "şal",
   "definitions": []
 },
 {
@@ -548,7 +180,31 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şoreşger",
+  "content": "şkestin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şermî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şevîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şîret",
   "definitions": []
 },
 {
@@ -564,39 +220,79 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şûf",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şûjin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şûn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "şûnve",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
   "content": "şûr",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şivan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şaş",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şewitîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şirîk",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şêwirîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şên bûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şîrove kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şeklî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şor",
   "definitions": []
 },
 {
@@ -612,7 +308,351 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "şuxilîn",
+  "content": "şîrîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şermezar kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şa bûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şûnve",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şik birin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ahmet",
+    "lastname": "Polat"
+  },
+  "content": "şîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ahmet",
+    "lastname": "Polat"
+  },
+  "content": "şil",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şivanî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şitil",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şewk",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şewitî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şkestî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şerbik",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şad bûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şên",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şaşî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şirqînî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şireşir",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şênî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şkandin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şûf",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şekir",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şer kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şorbe",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şêwirmend",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "şahî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "şewq",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "şemam",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şirît",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şekal",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şil kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şop",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şanazî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şemitîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şoreşger",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "şaristanî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "şaristan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "şiyar",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "şewat",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "şe",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şemitandin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "şûjin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "şidandî",
   "definitions": []
 }
 ]

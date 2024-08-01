@@ -12,31 +12,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "îcare kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "îdare kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
   "content": "îfade kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Ferhat",
-    "lastname": "Bismil"
-  },
-  "content": "îlon",
   "definitions": []
 },
 {
@@ -56,5 +32,29 @@
       "sentences": []
     }
   ]
+},
+{
+  "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "îlon",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "îdare kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "îcare kirin",
+  "definitions": []
 }
 ]
