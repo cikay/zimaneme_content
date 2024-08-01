@@ -4,10 +4,10 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "jîndar",
+  "content": "kevanî",
   "definitions": [
     {
-      "content": "Tiştên xwedî jiyanekê",
+      "content": "Kesê ku karên malê dike",
       "type": "Navdêr",
       "author": {
         "firstname": "Muzaffer",
@@ -22,7 +22,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "ji bîr kirin",
+  "content": "kum",
   "definitions": []
 },
 {
@@ -30,7 +30,15 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "jiyan",
+  "content": "kelandin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "keskesor",
   "definitions": []
 },
 {
@@ -38,42 +46,16 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "jixwe",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "jin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Weysî",
-    "lastname": "Sayar"
-  },
-  "content": "jêhatî",
+  "content": "kedî kirin",
   "definitions": [
     {
-      "content": "Kesê di karê xwe de serkeftî û baş be.",
-      "type": "Navdêr",
+      "content": "Fêrkirina ajalan bo jiyana bi mirovan re",
+      "type": "Lêker",
       "author": {
-        "firstname": "Weysî",
-        "lastname": "Sayar"
+        "firstname": "Muzaffer",
+        "lastname": "Cıkay"
       },
-      "sentences": [
-        {
-          "content": "Ev ne karê bêkêran e, ev karê mirovên jêhatî ne.",
-          "tense": "Dema fireh",
-          "word_form": "Jêhatî ",
-          "author": {
-            "firstname": "Weysî",
-            "lastname": "Sayar"
-          }
-        }
-      ]
+      "sentences": []
     }
   ]
 },
@@ -82,7 +64,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "ji bilî",
+  "content": "kedî",
   "definitions": []
 },
 {
@@ -90,7 +72,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "ji bîr çûn",
+  "content": "kawêj kirin",
   "definitions": []
 },
 {
@@ -98,7 +80,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "ji xeynî",
+  "content": "kurk",
   "definitions": []
 },
 {
@@ -106,7 +88,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "ji dest dan",
+  "content": "kêr negîhandin xwe",
   "definitions": []
 },
 {
@@ -114,7 +96,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "ji bo",
+  "content": "kolinc",
   "definitions": []
 },
 {
@@ -122,7 +104,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "jan",
+  "content": "kevok",
   "definitions": []
 },
 {
@@ -130,7 +112,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "jiyana xwe ji dest dan ",
+  "content": "kulm",
   "definitions": []
 },
 {
@@ -138,7 +120,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "ji ber vê yekê",
+  "content": "kuncî",
   "definitions": []
 },
 {
@@ -146,7 +128,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "jiyan kirin",
+  "content": "kirê kirin",
   "definitions": []
 },
 {
@@ -154,7 +136,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "jor",
+  "content": "keser",
   "definitions": []
 },
 {
@@ -162,7 +144,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "jêr",
+  "content": "kel rabûn",
   "definitions": []
 },
 {
@@ -170,7 +152,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "ji bona",
+  "content": "ketin rêzê",
   "definitions": []
 },
 {
@@ -178,87 +160,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "ji nû ve ",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "ji ber ku",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "ji ber wê yekê",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "jêhatîtir",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "ji nişkê ve",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "jîngeh",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "ji dayik bûn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "jê man",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "ji (tiştekî) man",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "jidil",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "ji nişka ve",
+  "content": "kermêş",
   "definitions": []
 },
 {
@@ -266,7 +168,7 @@
     "firstname": "Ferhat",
     "lastname": "Bismil"
   },
-  "content": "jêbir",
+  "content": "komik",
   "definitions": []
 },
 {
@@ -274,7 +176,63 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "jê gerîn",
+  "content": "keçanî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "koç kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "koçkirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "karsaz",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "kursî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kincdank",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kalîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "kurt",
   "definitions": []
 }
 ]
