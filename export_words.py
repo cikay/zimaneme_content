@@ -1,3 +1,6 @@
+import os
+import json
+from ziman.models import WordDB
 async def export_words():
     export_directory = "words"
     os.makedirs(export_directory, exist_ok=True)
