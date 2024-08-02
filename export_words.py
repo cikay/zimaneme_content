@@ -23,7 +23,7 @@ async def export_words():
                 "definitions__created_by",
                 "definitions__sentences__created_by",
             )
-            .order_by("content")
+            .order_by("created_at")
             .offset(offset)
             .limit(batch_size)
         )
