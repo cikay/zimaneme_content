@@ -9,34 +9,10 @@
 },
 {
   "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "êriş",
-  "definitions": []
-},
-{
-  "author": {
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "êrîş",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "êrişkar",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "êrîş kirin",
+  "content": "êşandin",
   "definitions": []
 },
 {
@@ -52,7 +28,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "êşandin",
+  "content": "êrîş",
   "definitions": []
 },
 {
@@ -60,7 +36,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "êsîr",
+  "content": "êzing",
   "definitions": []
 },
 {
@@ -76,7 +52,31 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "êzing",
+  "content": "êrîş kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "êriş",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "êsîr",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "êrişkar",
   "definitions": []
 }
 ]

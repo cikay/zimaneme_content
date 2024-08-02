@@ -1,10 +1,10 @@
 [
 {
   "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
   },
-  "content": "rûpel",
+  "content": "rihan",
   "definitions": []
 },
 {
@@ -12,7 +12,23 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "rût kirin",
+  "content": "rojî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "rût",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "raçav kirin",
   "definitions": []
 }
 ]
