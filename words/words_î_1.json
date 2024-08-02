@@ -12,22 +12,6 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "îcare kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "îdare kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
   "content": "îfade kirin",
   "definitions": []
 },
@@ -56,5 +40,21 @@
       "sentences": []
     }
   ]
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "îcare kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "îdare kirin",
+  "definitions": []
 }
 ]

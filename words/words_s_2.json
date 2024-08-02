@@ -1,10 +1,10 @@
 [
 {
   "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
   },
-  "content": "spî",
+  "content": "sûcdar",
   "definitions": []
 },
 {
@@ -12,7 +12,15 @@
     "firstname": "Sefîn",
     "lastname": "Etmanekî"
   },
-  "content": "spîndar",
+  "content": "serdil",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "serçok",
   "definitions": []
 },
 {
@@ -20,47 +28,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "standin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "star kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "stêrk",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "stewr",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "stran",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "strandin",
+  "content": "spartin",
   "definitions": []
 },
 {
@@ -76,7 +44,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "stuxwarî",
+  "content": "sîle",
   "definitions": []
 },
 {
@@ -84,7 +52,15 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "sûc",
+  "content": "serederî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "sêv",
   "definitions": []
 },
 {
@@ -92,15 +68,7 @@
     "firstname": "Sefîn",
     "lastname": "Etmanekî"
   },
-  "content": "sûcdar",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "sûd",
+  "content": "serhişk",
   "definitions": []
 },
 {
@@ -116,7 +84,39 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "suxre",
+  "content": "sûc",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "serwext",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "seqetî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "saloq",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "sinordar kirin",
   "definitions": []
 }
 ]

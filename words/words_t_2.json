@@ -4,7 +4,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "tirredîn",
+  "content": "tewandin",
   "definitions": []
 },
 {
@@ -12,7 +12,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "tirs",
+  "content": "tenêtî",
   "definitions": []
 },
 {
@@ -20,7 +20,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "tirş",
+  "content": "tejang",
   "definitions": []
 },
 {
@@ -28,7 +28,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "tirsandin",
+  "content": "tenûr",
   "definitions": []
 },
 {
@@ -36,7 +36,31 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "tirsîn",
+  "content": "tembûr",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "têjik",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "teqîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "temisandin",
   "definitions": []
 },
 {
@@ -44,7 +68,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "tirsonek",
+  "content": "têr xwarin",
   "definitions": []
 },
 {
@@ -52,7 +76,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "tirs şikandin",
+  "content": "tev",
   "definitions": []
 },
 {
@@ -60,95 +84,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "tişt",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "tizbî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "tok",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Ferhat",
-    "lastname": "Bismil"
-  },
-  "content": "tol",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "tomar kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "tu",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "tû",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "tûj",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "tûjî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "tûj kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "tûjtir",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "tû kirin",
+  "content": "tenik",
   "definitions": []
 },
 {
@@ -172,7 +108,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "tûr",
+  "content": "tûjî",
   "definitions": []
 },
 {
@@ -180,7 +116,87 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "tûrik",
+  "content": "telaq",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "text",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "taqet",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "teba",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "teyr",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "tizbî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "talan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "temî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "tehm kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "tewandî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "titik",
   "definitions": []
 }
 ]

@@ -1,74 +1,10 @@
 [
 {
   "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "wargeh",
-  "definitions": []
-},
-{
-  "author": {
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "wate",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "watedar",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "wawik",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "wê",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "wec",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "weciniqîn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "wegerîn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "wêje",
+  "content": "wisa",
   "definitions": []
 },
 {
@@ -84,6 +20,14 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
+  "content": "wate",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
   "content": "wekhev",
   "definitions": []
 },
@@ -92,7 +36,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "wekhevî",
+  "content": "wergirtin",
   "definitions": []
 },
 {
@@ -108,7 +52,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "welatparêzî",
+  "content": "wergerîn",
   "definitions": []
 },
 {
@@ -116,7 +60,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "welatperwerî",
+  "content": "wext",
   "definitions": []
 },
 {
@@ -124,7 +68,39 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "wenda bûn",
+  "content": "watedar",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "wilo",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "weşandin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "wergerî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "weşan",
   "definitions": []
 },
 {
@@ -140,23 +116,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "wênesaz",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "wêran",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "werdan",
+  "content": "wekhevî",
   "definitions": []
 },
 {
@@ -172,7 +132,103 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
+  "content": "welatparêzî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "wegerîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
   "content": "werger",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "winda kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "westandin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "wenda bûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "wênesaz",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "weciniqîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "wiha",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "welatperwerî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "wêje",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "wargeh",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "wêran",
   "definitions": []
 },
 {
@@ -196,7 +252,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "wergerî",
+  "content": "werdan",
   "definitions": []
 },
 {
@@ -204,7 +260,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "wergerîn",
+  "content": "wê",
   "definitions": []
 },
 {
@@ -212,31 +268,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "wergirtin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "weşan",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "weşandin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "westandin",
+  "content": "wawik",
   "definitions": []
 },
 {
@@ -252,39 +284,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "wext",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "wiha",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "wilo",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "winda kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "wisa",
+  "content": "wec",
   "definitions": []
 }
 ]
