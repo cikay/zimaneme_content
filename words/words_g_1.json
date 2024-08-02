@@ -354,6 +354,14 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
+  "content": "gewherî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
   "content": "gava dî",
   "definitions": []
 },
@@ -819,14 +827,6 @@
     "lastname": "Cıkay"
   },
   "content": "gûz",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "gêj bûn",
   "definitions": []
 },
 
