@@ -534,6 +534,22 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
+  "content": "serwext",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "sûc",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
   "content": "saw",
   "definitions": []
 },
@@ -550,6 +566,14 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
+  "content": "saloq",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
   "content": "stuxwarî",
   "definitions": []
 },
@@ -559,6 +583,14 @@
     "lastname": "Cıkay"
   },
   "content": "sor",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "seqetî",
   "definitions": []
 },
 {
@@ -775,38 +807,6 @@
     "lastname": "Etmanekî"
   },
   "content": "serwerî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "sax",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "saxî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "sîdar",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "sîtav",
   "definitions": []
 },
 

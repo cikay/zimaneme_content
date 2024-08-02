@@ -672,6 +672,14 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
+  "content": "kek",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
   "content": "komele",
   "definitions": []
 },
@@ -689,6 +697,14 @@
     "lastname": "Cıkay"
   },
   "content": "kerî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "kayîn",
   "definitions": []
 },
 {
@@ -870,22 +886,6 @@
       ]
     }
   ]
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "kadîn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "kund",
-  "definitions": []
 },
 
 ]

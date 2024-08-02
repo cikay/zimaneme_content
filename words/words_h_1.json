@@ -592,6 +592,14 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
+  "content": "hiştin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
   "content": "hîndarî",
   "definitions": []
 },
@@ -809,14 +817,6 @@
     "lastname": "Cıkay"
   },
   "content": "hebekî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "hiş",
   "definitions": []
 },
 
