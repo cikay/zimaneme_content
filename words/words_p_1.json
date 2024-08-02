@@ -4,154 +4,47 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "por",
-  "definitions": [
-    {
-      "content": "Pûrta serê jîndaran",
-      "type": "Navdêr",
-      "author": {
-        "firstname": "Muzaffer",
-        "lastname": "Cıkay"
-      },
-      "sentences": [
-        {
-          "content": "Porê min diweşe",
-          "tense": "Dema niha",
-          "word_form": "Porê",
-          "author": {
-            "firstname": "Muzaffer",
-            "lastname": "Cıkay"
-          }
-        },
-        {
-          "content": "Porê delala min sor e",
-          "tense": "Dema fireh",
-          "word_form": "Porê",
-          "author": {
-            "firstname": "Muzaffer",
-            "lastname": "Cıkay"
-          }
-        },
-        {
-          "content": "Azad porê xwe da qutkirin",
-          "tense": "Dema borî",
-          "word_form": "porê",
-          "author": {
-            "firstname": "Muzaffer",
-            "lastname": "Cıkay"
-          }
-        },
-        {
-          "content": "Çiyager wê porê xwe direj bike",
-          "tense": "Dema bê",
-          "word_form": "porê",
-          "author": {
-            "firstname": "Muzaffer",
-            "lastname": "Cıkay"
-          }
-        }
-      ]
-    }
-  ]
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pûç",
-  "definitions": [
-    {
-      "content": "Di hundirê tiştekî da tinebûna tiştekî din",
-      "type": "Hevalnav",
-      "author": {
-        "firstname": "Muzaffer",
-        "lastname": "Cıkay"
-      },
-      "sentences": [
-        {
-          "content": "Ev gûzên hanê pûç in",
-          "tense": "Dema fireh",
-          "word_form": "pûç",
-          "author": {
-            "firstname": "Muzaffer",
-            "lastname": "Cıkay"
-          }
-        }
-      ]
-    }
-  ]
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pir",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "peya kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "piştre",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêl",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêlav",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "peyv",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pîn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
   "content": "pak",
   "definitions": []
 },
 {
   "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "pakrewan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ahmet",
+    "lastname": "Polat"
+  },
+  "content": "panî",
+  "definitions": []
+},
+{
+  "author": {
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "poz",
+  "content": "paqij",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "paqijker",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "paqij kirin",
   "definitions": []
 },
 {
@@ -167,159 +60,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pirtûk",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pişt",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
   "content": "parastin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pîroz",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "parve kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "piçek",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pirsgirêk",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêş",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêşeroj",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêk hatin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pergal",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêvajo",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "piranî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêşengeh",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "payîz",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pîrozbahî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêşkêş kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pirs",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "paşê",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêşketin",
   "definitions": []
 },
 {
@@ -335,135 +76,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "perwerde",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pere",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêwendî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêşengî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pere kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pez",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "peyam",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "piçekê",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pîrek",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêşber",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pênase kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "paşxan",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêdivî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pût dan",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêçan",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêşniyaz",
+  "content": "parêz",
   "definitions": []
 },
 {
@@ -487,7 +100,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pîr",
+  "content": "parî",
   "definitions": []
 },
 {
@@ -495,7 +108,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pêk anîn",
+  "content": "pars",
   "definitions": []
 },
 {
@@ -503,7 +116,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pêlîstok",
+  "content": "pars kirin",
   "definitions": []
 },
 {
@@ -511,119 +124,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "piştgirî dan",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pîvan",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêş xistin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "perwerdehî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "plansazî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêwîstî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "penaber",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "perwerde kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "peyman",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêşwaz",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pê hesandin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "paşguh kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêşketî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pozbilind",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêşî",
+  "content": "parve kirin",
   "definitions": []
 },
 {
@@ -639,7 +140,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pêwîst",
+  "content": "paş",
   "definitions": []
 },
 {
@@ -647,7 +148,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pesin dan",
+  "content": "paşda man",
   "definitions": []
 },
 {
@@ -655,7 +156,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "paqij",
+  "content": "paşê",
   "definitions": []
 },
 {
@@ -663,7 +164,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "paqij kirin",
+  "content": "paşguh kirin",
   "definitions": []
 },
 {
@@ -671,7 +172,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pênûs",
+  "content": "paşxan",
   "definitions": []
 },
 {
@@ -679,7 +180,15 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "parêz",
+  "content": "payîz",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "pê",
   "definitions": []
 },
 {
@@ -687,7 +196,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pevçûn",
+  "content": "pêçan",
   "definitions": []
 },
 {
@@ -695,7 +204,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pîroz kirin",
+  "content": "pêçandin",
   "definitions": []
 },
 {
@@ -703,7 +212,31 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pişik",
+  "content": "pêçek",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "pêçî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pê daketin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêdivî",
   "definitions": []
 },
 {
@@ -716,34 +249,10 @@
 },
 {
   "author": {
-    "firstname": "Ahmet",
-    "lastname": "Polat"
-  },
-  "content": "panî",
-  "definitions": []
-},
-{
-  "author": {
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pûrt",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pezkovî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "pêşberî",
+  "content": "pê hesandin",
   "definitions": []
 },
 {
@@ -759,7 +268,15 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pûnijîn",
+  "content": "pejirandî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "pejirandin",
   "definitions": []
 },
 {
@@ -767,7 +284,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "peritîn",
+  "content": "pê kanîn",
   "definitions": []
 },
 {
@@ -775,7 +292,111 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pûş",
+  "content": "pêk anîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "pêkanîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêk hatin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pekîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ferhat",
+    "lastname": "Bismil"
+  },
+  "content": "pel",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêl",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pelandin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêlav",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêlîstok",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "penaber",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "penaberî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pênase kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pênc",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pênûs",
   "definitions": []
 },
 {
@@ -791,7 +412,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pêt",
+  "content": "per",
   "definitions": []
 },
 {
@@ -799,7 +420,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pirsîn",
+  "content": "perde",
   "definitions": []
 },
 {
@@ -807,23 +428,95 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pêçandin",
+  "content": "pere",
   "definitions": []
 },
 {
   "author": {
-    "firstname": "Ferhat",
-    "lastname": "Bismil"
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
   },
-  "content": "pejirandin",
+  "content": "pere kirin",
   "definitions": []
 },
 {
   "author": {
-    "firstname": "Ferhat",
-    "lastname": "Bismil"
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
   },
-  "content": "pêkanîn",
+  "content": "pergal",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "perîşan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "peritîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "perwerde",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "perwerdehî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "perwerde kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêş",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "pêşbazî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêşber",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêşberî",
   "definitions": []
 },
 {
@@ -839,6 +532,214 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
+  "content": "pêşeng",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêşengeh",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêşengî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêşeroj",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pê şêwirîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêşî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pesin dan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêsîr",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêşkêş kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêşketî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêşketin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pesn dan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêşniyar",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêşniyaz",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêşwaz",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "pêşwazî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêşwazî kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêş xistin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêt",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêvajo",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pevçûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pê vedan",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêwendî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêwîst",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pêwîstî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pê xistin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
   "content": "peya",
   "definitions": []
 },
@@ -847,7 +748,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "piştgirî",
+  "content": "peya bûn",
   "definitions": []
 },
 {
@@ -855,7 +756,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "per",
+  "content": "peya kirin",
   "definitions": []
 },
 {
@@ -863,7 +764,39 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "pê daketin",
+  "content": "peyam",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "peyda kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "peyman",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "peyv",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "pez",
   "definitions": []
 },
 
