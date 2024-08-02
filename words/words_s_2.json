@@ -1,42 +1,10 @@
 [
 {
   "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
   },
-  "content": "sax",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "saxî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "sîdar",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "sîtav",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "sarya",
+  "content": "spî",
   "definitions": []
 },
 {
@@ -49,18 +17,74 @@
 },
 {
   "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
   },
-  "content": "sinor",
+  "content": "standin",
   "definitions": []
 },
 {
   "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
   },
-  "content": "ser lê dan",
+  "content": "star kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "stêrk",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "stewr",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "stran",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "strandin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "stû",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "stuxwarî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "sûc",
   "definitions": []
 },
 {
@@ -73,26 +97,10 @@
 },
 {
   "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
   },
-  "content": "sorik",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "serdil",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
-  },
-  "content": "serçok",
+  "content": "sûd",
   "definitions": []
 },
 {
@@ -100,15 +108,15 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "spartin",
+  "content": "sur",
   "definitions": []
 },
 {
   "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
   },
-  "content": "serhişk",
+  "content": "suxre",
   "definitions": []
 }
 ]

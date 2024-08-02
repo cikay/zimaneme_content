@@ -4,7 +4,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bêrî",
+  "content": "bersiv",
   "definitions": []
 },
 {
@@ -12,7 +12,15 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bindest",
+  "content": "bersûc",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ahmet",
+    "lastname": "Polat"
+  },
+  "content": "berx",
   "definitions": []
 },
 {
@@ -20,7 +28,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "belek",
+  "content": "ber xwe dan",
   "definitions": []
 },
 {
@@ -28,7 +36,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "babet",
+  "content": "berxwedan",
   "definitions": []
 },
 {
@@ -36,7 +44,25 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bapîr",
+  "content": "bes",
+  "definitions": [
+    {
+      "content": "Tiştekî ku êdî nayê xwastin",
+      "type": "Hoker",
+      "author": {
+        "firstname": "Muzaffer",
+        "lastname": "Cıkay"
+      },
+      "sentences": []
+    }
+  ]
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "beş",
   "definitions": []
 },
 {
@@ -44,7 +70,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "birçî kirin",
+  "content": "bêş",
   "definitions": []
 },
 {
@@ -52,7 +78,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bandordar bûn",
+  "content": "beşdar",
   "definitions": []
 },
 {
@@ -60,7 +86,15 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bêrî kirin",
+  "content": "beşdar bûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Sefîn",
+    "lastname": "Etmanekî"
+  },
+  "content": "bêsinor",
   "definitions": []
 },
 {
@@ -68,7 +102,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bikarhêner",
+  "content": "betal kirin",
   "definitions": []
 },
 {
@@ -76,7 +110,15 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bawer kirin",
+  "content": "betilî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bext",
   "definitions": []
 },
 {
@@ -92,7 +134,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "birçîbûn",
+  "content": "bêxwedî",
   "definitions": []
 },
 {
@@ -100,7 +142,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bijartin",
+  "content": "bêyî",
   "definitions": []
 },
 {
@@ -108,23 +150,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bi vî rengî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bersûc",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "baldarî",
+  "content": "bez",
   "definitions": []
 },
 {
@@ -140,7 +166,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bûk",
+  "content": "bi bîr anîn",
   "definitions": []
 },
 {
@@ -148,7 +174,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "beran",
+  "content": "bi cih bûn",
   "definitions": []
 },
 {
@@ -156,7 +182,63 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bi (tiştekî) girtin",
+  "content": "bi cih kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "biçûk",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bidijwarî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bifêde",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bi firê ketin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "biha",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bihalekî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Ahmet",
+    "lastname": "Polat"
+  },
+  "content": "bihar",
   "definitions": []
 },
 {
@@ -165,6 +247,154 @@
     "lastname": "Cıkay"
   },
   "content": "bi hev ketin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bi hev re",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bihîstin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bihurandin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bihurî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bihurîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bijang",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bijartin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bijîşk",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bi kar anîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bikarhêner",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bila",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bi lêv kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bilind",
+  "definitions": [
+    {
+      "content": "Astekê ku li gorî derekê jortir",
+      "type": "Navdêr",
+      "author": {
+        "firstname": "Muzaffer",
+        "lastname": "Cıkay"
+      },
+      "sentences": [
+        {
+          "content": "Xîreta lawik di peywenda mirovbûn û esilbûnê de tiştekî gelekî hêja ye, rûmeteke bilind li cem zarok heye",
+          "tense": "Dema fireh",
+          "word_form": "bilind",
+          "author": {
+            "firstname": "Muzaffer",
+            "lastname": "Cıkay"
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bilindahî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bilind kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bilindtir",
   "definitions": []
 },
 {
@@ -195,238 +425,6 @@
 },
 {
   "author": {
-    "firstname": "Ahmet",
-    "lastname": "Polat"
-  },
-  "content": "bihar",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bedewî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "badan",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "betilî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bisk",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bêhemd",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "ba",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bêhnfireh",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "belkî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bext",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bêhn lê çikandin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "belengaz",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "belengazî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "berê",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bi cih bûn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "berdan",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "berîk",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bazdan",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bal dan",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bang li (kesekî) kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "berhev kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Ferhat",
-    "lastname": "Bismil"
-  },
-  "content": "bingehîn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bijîşk",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bav",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bêjing",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bijang",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bi rê ketin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bi rê xistin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bêxwedî",
-  "definitions": []
-},
-{
-  "author": {
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
@@ -438,7 +436,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bi firê ketin",
+  "content": "bi nav kirin",
   "definitions": []
 },
 {
@@ -446,7 +444,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "benîşt",
+  "content": "binçav",
   "definitions": []
 },
 {
@@ -454,7 +452,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bihurandin",
+  "content": "binçav kirin",
   "definitions": []
 },
 {
@@ -462,15 +460,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bihurî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "belqityo",
+  "content": "bindest",
   "definitions": []
 },
 {
@@ -486,15 +476,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "birêveberî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "berpirsiyarî",
+  "content": "bingeh",
   "definitions": []
 },
 {
@@ -502,71 +484,7 @@
     "firstname": "Ferhat",
     "lastname": "Bismil"
   },
-  "content": "berîtan",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bilind kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bi ya (kesekî) kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bişkivîn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bêder",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "barîn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bêguman",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "borî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bihîstin",
+  "content": "bingehîn",
   "definitions": []
 },
 {
@@ -579,102 +497,6 @@
 },
 {
   "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bilindahî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bîst",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bêdeng",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bi cih kirin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bedewbûn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bişkul",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "badayî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "ba rabûn",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bidijwarî",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "bi serî da hatin",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "beq",
-  "definitions": []
-},
-{
-  "author": {
-    "firstname": "Muzaffer",
-    "lastname": "Cıkay"
-  },
-  "content": "balkêş",
-  "definitions": []
-},
-{
-  "author": {
     "firstname": "Ferhat",
     "lastname": "Bismil"
   },
@@ -683,10 +505,28 @@
 },
 {
   "author": {
-    "firstname": "Ferhat",
-    "lastname": "Bismil"
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
   },
-  "content": "bêr",
+  "content": "bîr",
+  "definitions": [
+    {
+      "content": "Kûranîyeke ku bi piranî av têde",
+      "type": "Navdêr",
+      "author": {
+        "firstname": "Muzaffer",
+        "lastname": "Cıkay"
+      },
+      "sentences": []
+    }
+  ]
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bira",
   "definitions": []
 },
 {
@@ -694,7 +534,89 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bêkes",
+  "content": "bîranin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "birazê",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "birçî",
+  "definitions": [
+    {
+      "content": "Hewcebûna xwarinê",
+      "type": "Hevalnav",
+      "author": {
+        "firstname": "Muzaffer",
+        "lastname": "Cıkay"
+      },
+      "sentences": []
+    }
+  ]
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "birçîbûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "birçî kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "birçîtî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bi rê ketin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "birêveber",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "birêveberî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bi rê xistin",
   "definitions": []
 },
 {
@@ -710,23 +632,47 @@
     "firstname": "Sefîn",
     "lastname": "Etmanekî"
   },
-  "content": "berîkirin",
+  "content": "birî",
   "definitions": []
 },
 {
   "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
   },
-  "content": "balafir",
+  "content": "birin",
   "definitions": []
 },
 {
   "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
   },
-  "content": "basûr",
+  "content": "birîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "birîndar",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "biriqîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bîr kirin",
   "definitions": []
 },
 {
@@ -739,10 +685,10 @@
 },
 {
   "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
   },
-  "content": "bêsinor",
+  "content": "biryar",
   "definitions": []
 },
 {
@@ -750,7 +696,7 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "beşdar",
+  "content": "bi serî da hatin",
   "definitions": []
 },
 {
@@ -758,23 +704,151 @@
     "firstname": "Muzaffer",
     "lastname": "Cıkay"
   },
-  "content": "bihalekî",
+  "content": "bisk",
   "definitions": []
 },
 {
   "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
   },
-  "content": "birî",
+  "content": "bişkivandin",
   "definitions": []
 },
 {
   "author": {
-    "firstname": "Sefîn",
-    "lastname": "Etmanekî"
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
   },
-  "content": "barandin",
+  "content": "bişkivîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bişkoj",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bişkov",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bişkul",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bîst",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bi tena serê xwe",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bi (tiştekî) girtin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bi vî rengî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bi ya (kesekî) kirin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "biyanî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "biyanîbûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bizin",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "borî",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "borîn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bûk",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bûn",
+  "definitions": []
+},
+{
+  "author": {
+    "firstname": "Muzaffer",
+    "lastname": "Cıkay"
+  },
+  "content": "bûyer",
   "definitions": []
 }
 ]
